@@ -1,6 +1,7 @@
 # TEMPLATE Rubric for Discussions
 
 |Criteria|10 Points|8 Points|6 Points|0 Points|
+|---|---|---|---|---|
 |Quality of Post|Appropriate comments: thoughtful, reflective, and respectful of others’ postings. Meets or exceeds the discussion requirements.|Appropriate comments and responds respectfully to others’ postings. Meets nearly all of the discussion requirements.|Responds with somewhat relevant comments but does not meet the discussion requirements.|No posting or posting of irrelevant content lacking effort to address topic.|
 |Relevance of Post|Posts topics related to discussion topic; prompts further discussion of topic. |Posts topics that are related to discussion content but do not prompt further discussion.|Posts topics that are somewhat relevant to the topic but lack focus and do not prompt further discussion.|No posting or posting of irrelevant content lacking effort to address topic.|
 |Contribution to the Learning Community|Aware of needs of community; attempts to motivate the group discussion; presents creative approaches to topic.|Attempts to direct the discussion and to present relevant viewpoints for consideration by group; interacts freely.|Does not make effort to participate in learning community as it develops. Does not meet the discussion requirements.|No feedback, inappropriate feedback, or irrelevant content lacking effort provided to fellow students.|
