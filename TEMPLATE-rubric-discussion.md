@@ -11,3 +11,19 @@
 This discussion rubric is meant to work with any protocols that you may have regarding discussion board posts (word count, number of replies, required citations, etc.). The protocols should be included by faculty members in the discussion prompt. A link should also be provided to a single instance of this discussion standard. Ideally, there would be one location where the discussion rubric is stored so that any revisions to it may be enacted globally in the source instance.
 
 It is recommended when using this rubric for grading discussion board engagement, that the instructor provides specific feedback that addresses the rubric criteria.
+
+## Grading with the Discussion Rubric
+
+An instructor may choose to grade “between the levels,” assigning 9, 7, 5 points, etc., but the rubric is set up so that the scoring allows for every grade level to be addressed (when using a scale of 90 to 100%). The point and percentage breakdown is as follows:
+
+|Points|Percentage|
+|---|---|
+|30|100%|
+|28|93%|
+|26|87%|
+|24|80%|
+|22|73%|
+|20|67%|
+|18|60%|
+|12|40%|
+|6|20%|
