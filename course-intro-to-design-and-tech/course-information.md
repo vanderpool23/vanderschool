@@ -132,6 +132,22 @@ Feedback:
 
 The correct answer is a. Testing, as it relates to design thinking, is the process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement. It is a critical step in the design thinking process, as it allows designers to validate their ideas and ensure that the final product or service meets the needs and expectations of its intended audience.
 
+## Applying Design Thinking Concepts to Real-World Problems
+
+Design thinking is a human-centered approach to problem-solving that can be applied to a wide range of areas, including event planning. Here are some steps to apply design thinking to event planning:
+
+Empathize with the audience: Before planning the event, it is essential to understand the audience's needs, interests, and expectations. Talk to potential attendees, conduct surveys, and gather feedback from past events to get a clear picture of what they want.
+
+Define the problem: Based on your research, identify the main pain points and challenges that your audience faces when attending events. This could include issues like long lines, poor organization, or lack of engaging content.
+
+Ideate solutions: Brainstorm different solutions to address the identified pain points. Generate a variety of ideas, no matter how wild or unconventional they may seem. Use ideation techniques like mind mapping, brainstorming, or prototyping to help you generate creative solutions.
+
+Prototype: Create prototypes of the solutions that you came up with in the ideation stage. This could include creating a mock-up of the event layout or creating a sample of the content that will be presented. Test the prototypes with a small group of people to gather feedback and refine your ideas.
+
+Test: Test your ideas with a small group of attendees before launching the event. Gather feedback and make necessary changes to ensure that the event meets the audience's needs and expectations.
+
+By applying the principles of design thinking to event planning, you can create events that are more engaging, more effective, and more enjoyable for attendees.
+
 ### Assignment: Design Thinking Case Study
 
 #### Instructions:
@@ -159,8 +175,6 @@ The correct answer is a. Testing, as it relates to design thinking, is the proce
 * Rigor and validity of the testing conducted in the Test stage.
 * Overall effectiveness of the Design Thinking process in addressing the problem.
 * Quality of the writing, graphics and presentation.
-
-## Applying Design Thinking Concepts to Real-World Problems
 
 ## Designing Digital Products
 
