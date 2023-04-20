@@ -236,6 +236,21 @@ The steps to design a good digital product may vary depending on the specific pr
 
 Overall, the key to designing a good digital product is to prioritize user needs and feedback throughout the design process, and to continuously iterate and improve the product based on user insights and data.
 
+### Activity: Choose Your Own Experience
+
+Here are step-by-step instructions for building a choose-your-own-adventure game in Google Slides:
+
+1. Open a new Google Slides presentation and create a new slide for each decision point in your adventure. For example, if your adventure involves a character exploring a haunted house, you might create a slide for each room in the house, with different choices for the character to make on each slide.
+2. Add text boxes to each slide with descriptions of the setting and the choices available to the user. You can also add images or other media to enhance the story.
+3. Create hyperlinks between slides to allow the user to make their choice and advance to the next part of the story. To do this, highlight the text or image you want to link, click on "Insert" in the menu bar, select "Link," and then choose the slide you want to link to.
+4. Test your adventure by going through each slide and making sure that the hyperlinks are working correctly.
+5. Add a "Game Over" slide with a message indicating that the user has lost the game. You can also add a "Congratulations!" slide with a message indicating that the user has won the game.
+6. Add navigation buttons to each slide to allow the user to go back to previous choices or restart the game. To do this, click on "Insert" in the menu bar, select "Shapes," and then choose the arrow shape you want to use. Place the arrow on the slide and link it to the appropriate slide using the hyperlink tool.
+7. Customize the theme and design of your adventure game by changing the background, font, and colors to match the theme of your story.
+8. Share your adventure game with others by publishing it to the web or sharing a link with your friends.
+
+Congratulations! You have successfully created a choose-your-own-adventure game in Google Slides.
+
 ## Data Visualizations
 
 ## Basics of Coding and Programming
