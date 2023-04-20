@@ -74,9 +74,9 @@ Testing can also help to identify potential problems or issues with a design bef
 
 #### What is design?
 
-a) The process of creating problems
-b) The process of creating solutions to problems or opportunities through the intentional arrangement of elements or components
-c) The process of creating obstacles for people
+a. The process of creating problems
+b. The process of creating solutions to problems or opportunities through the intentional arrangement of elements or components
+c. The process of creating obstacles for people
 
 Feedback:
 
