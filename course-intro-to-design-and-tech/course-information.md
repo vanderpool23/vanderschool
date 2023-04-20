@@ -132,6 +132,34 @@ Feedback:
 
 The correct answer is a. Testing, as it relates to design thinking, is the process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement. It is a critical step in the design thinking process, as it allows designers to validate their ideas and ensure that the final product or service meets the needs and expectations of its intended audience.
 
+### Assignment: Design Thinking Case Study
+
+#### Instructions:
+
+1. Choose a real-life problem related to a product, service or system that you interact with frequently, and identify the stakeholders involved.
+1. Apply the five stages of Design Thinking - Empathize, Define, Ideate, Prototype and Test - to the problem you identified.
+1. Write a case study describing the problem, the Design Thinking process you followed and the outcomes you achieved.
+
+#### Requirements:
+
+* The case study should be at least 500 words.
+* Include a brief introduction and conclusion.
+* Use headings and subheadings to organize your content.
+* Use at least two graphics, such as diagrams or sketches, to illustrate your process and solutions.
+* Provide references and citations for any sources you use in your research.
+* Submit your case study in a Word document or PDF.
+
+#### Grading Criteria:
+
+* Clarity and coherence of the problem statement.
+* Depth and relevance of the research conducted in the Empathize stage.
+* Clear and concise definition of the problem in the Define stage.
+* Creativity and diversity of the ideas generated in the Ideate stage.
+* Quality and feasibility of the prototypes created in the Prototype stage.
+* Rigor and validity of the testing conducted in the Test stage.
+* Overall effectiveness of the Design Thinking process in addressing the problem.
+* Quality of the writing, graphics and presentation.
+
 ## Applying Design Thinking Concepts to Real-World Problems
 
 ## Designing Digital Products
