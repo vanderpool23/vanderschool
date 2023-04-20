@@ -74,9 +74,9 @@ Testing can also help to identify potential problems or issues with a design bef
 
 #### What is design?
 
-a. The process of creating problems
-b. The process of creating solutions to problems or opportunities through the intentional arrangement of elements or components
-c. The process of creating obstacles for people
+1. The process of creating problems
+1. The process of creating solutions to problems or opportunities through the intentional arrangement of elements or components
+1. The process of creating obstacles for people
 
 Feedback:
 
@@ -84,9 +84,9 @@ The correct answer is b. Design is the process of creating solutions to problems
 
 #### What is design thinking?
 
-a) A problem-solving approach emphasizing empathy, creativity, and iteration to develop innovative solutions to complex problems
-b) A problem-solving approach that disregards the needs and perspectives of the people who will use a product or service
-c) A process of creating obstacles for people
+1. A problem-solving approach emphasizing empathy, creativity, and iteration to develop innovative solutions to complex problems
+1. A problem-solving approach that disregards the needs and perspectives of the people who will use a product or service
+1. A process of creating obstacles for people
 
 Feedback:
 
@@ -94,9 +94,9 @@ The correct answer is a. Design thinking is a problem-solving approach emphasizi
 
 #### What is empathy?
 
-a) The ability to understand and share the feelings, experiences, and perspectives of others, particularly the people who will use a product or service
-b) The ability to ignore the feelings, experiences, and perspectives of others
-c) The ability to create obstacles for people
+1. The ability to understand and share the feelings, experiences, and perspectives of others, particularly the people who will use a product or service
+1. The ability to ignore the feelings, experiences, and perspectives of others
+1. The ability to create obstacles for people
 
 Feedback:
 
@@ -104,9 +104,9 @@ The correct answer is a. Empathy, as it relates to design thinking, is the abili
 
 #### What is ideation?
 
-a) The process of generating a wide range of possible solutions or ideas to a specific problem or challenge
-b) The process of ignoring potential solutions or ideas to a specific problem or challenge
-c) The process of creating obstacles for people
+1. The process of generating a wide range of possible solutions or ideas to a specific problem or challenge
+1. The process of ignoring potential solutions or ideas to a specific problem or challenge
+1. The process of creating obstacles for people
 
 Feedback:
 
@@ -114,9 +114,9 @@ The correct answer is a. Ideation, as it relates to design thinking, is the proc
 
 #### What is prototyping?
 
-a) The process of creating a preliminary version of a product or service to test and evaluate its design, functionality, and usability
-b) The process of creating a finished product that meets the needs and expectations of its intended audience
-c) The process of creating obstacles for people
+1. The process of creating a preliminary version of a product or service to test and evaluate its design, functionality, and usability
+1. The process of creating a finished product that meets the needs and expectations of its intended audience
+1. The process of creating obstacles for people
 
 Feedback:
 
@@ -124,9 +124,9 @@ The correct answer is a. Prototyping, as it relates to design thinking, is the p
 
 #### What is testing?
 
-a) The process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement
-b) The process of ignoring feedback and releasing a product or service as is
-c) The process of creating obstacles for people
+1. The process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement
+1. The process of ignoring feedback and releasing a product or service as is
+1. The process of creating obstacles for people
 
 Feedback:
 
