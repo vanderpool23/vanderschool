@@ -70,6 +70,68 @@ Testing in design thinking is an iterative process, with designers using user fe
 
 Testing can also help to identify potential problems or issues with a design before it is released to the broader public, allowing designers to address these issues before they become significant problems. By incorporating testing into the design thinking process, designers can create products and services that are more likely to succeed in the marketplace and better suited to their users' needs.
 
+### Quiz: Design Basics
+
+#### What is design?
+
+a) The process of creating problems
+b) The process of creating solutions to problems or opportunities through the intentional arrangement of elements or components
+c) The process of creating obstacles for people
+
+Feedback:
+
+The correct answer is b. Design is the process of creating solutions to problems or opportunities through the intentional arrangement of elements or components, often to improve functionality, usability, or aesthetics.
+
+#### What is design thinking?
+
+a) A problem-solving approach emphasizing empathy, creativity, and iteration to develop innovative solutions to complex problems
+b) A problem-solving approach that disregards the needs and perspectives of the people who will use a product or service
+c) A process of creating obstacles for people
+
+Feedback:
+
+The correct answer is a. Design thinking is a problem-solving approach emphasizing empathy, creativity, and iteration to develop innovative solutions to complex problems. It is a human-centered approach that seeks to understand the needs and perspectives of the people who will use a product or service and then uses that understanding to guide the design process.
+
+#### What is empathy?
+
+a) The ability to understand and share the feelings, experiences, and perspectives of others, particularly the people who will use a product or service
+b) The ability to ignore the feelings, experiences, and perspectives of others
+c) The ability to create obstacles for people
+
+Feedback:
+
+The correct answer is a. Empathy, as it relates to design thinking, is the ability to understand and share the feelings, experiences, and perspectives of others, particularly the people who will use a product or service. It is a critical aspect of the human-centered design process, as it helps designers identify and address the needs and desires of their target audience.
+
+#### What is ideation?
+
+a) The process of generating a wide range of possible solutions or ideas to a specific problem or challenge
+b) The process of ignoring potential solutions or ideas to a specific problem or challenge
+c) The process of creating obstacles for people
+
+Feedback:
+
+The correct answer is a. Ideation, as it relates to design thinking, is the process of generating a wide range of possible solutions or ideas to a specific problem or challenge. It is a critical step in the design thinking process, as it allows designers to explore various potential solutions before selecting the most promising ones to develop further.
+
+#### What is prototyping?
+
+a) The process of creating a preliminary version of a product or service to test and evaluate its design, functionality, and usability
+b) The process of creating a finished product that meets the needs and expectations of its intended audience
+c) The process of creating obstacles for people
+
+Feedback:
+
+The correct answer is a. Prototyping, as it relates to design thinking, is the process of creating a preliminary version of a product or service to test and evaluate its design, functionality, and usability. It is a critical step in the design thinking process, as it allows designers to quickly and cheaply test their ideas and gather user feedback before committing to a final design.
+
+#### What is testing?
+
+a) The process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement
+b) The process of ignoring feedback and releasing a product or service as is
+c) The process of creating obstacles for people
+
+Feedback:
+
+The correct answer is a. Testing, as it relates to design thinking, is the process of evaluating a prototype or early version of a product or service to gather feedback and identify areas for improvement. It is a critical step in the design thinking process, as it allows designers to validate their ideas and ensure that the final product or service meets the needs and expectations of its intended audience.
+
 ## Applying Design Thinking Concepts to Real-World Problems
 
 ## Designing Digital Products
